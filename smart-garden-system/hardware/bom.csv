@@ -1,0 +1,10 @@
+Item,Qty,Notes/Link (fill in)
+Arduino Uno/Nano,1,5V board
+DHT11 Sensor,1,With breakout preferred
+Soil Moisture Sensor (Analog),1,Resistive probe module
+Relay Module (5V, 1-channel),1,Opto-isolated preferred
+16x2 LCD with I2C Backpack,1,Typical address 0x27/0x3F
+Submersible Pump (5–12V),1,Choose per your water source
+External Power Supply for Pump,1,Current >= pump rating
+Jumper Wires,as needed,
+Breadboard / Mounting,optional,
